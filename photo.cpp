@@ -2,6 +2,7 @@
 Name: Jonathan Cheng
 USACO: 10*
 Time: 30 min
+Difficulty: 6/10
 Description: Took a lot of time to implement
 */
 #include <bits/stdc++.h>
